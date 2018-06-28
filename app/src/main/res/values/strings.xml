@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SentimentApp</string>
+    <string name="this_is_a_nice_car">This is a nice car!</string>
+    <string name="analyze_that">Analyze That!</string>
+</resources>
